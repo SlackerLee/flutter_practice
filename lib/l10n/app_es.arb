@@ -1,0 +1,34 @@
+{
+    "appTitle": "Ejemplos de Gestión de Estado",
+    "inheritedWidget": "Inherited Widget",
+    "network": "Red",
+    "provider": "Provider",
+    "bloc": "BLoC",
+    "getx": "GetX",
+    "riverpod": "Riverpod",
+    "inheritedWidgetDesc": "Gestión básica de estado usando InheritedWidget",
+    "networkDesc": "Llamadas de red y gestión de estado",
+    "providerDesc": "Gestión de estado usando el paquete Provider",
+    "blocDesc": "Gestión de estado usando el patrón BLoC",
+    "getxDesc": "Gestión de estado usando GetX",
+    "riverpodDesc": "Gestión de estado usando Riverpod",
+    "counterTitle": "Ejemplo de Contador",
+    "counterValue": "Has presionado el botón tantas veces:",
+    "increment": "Incrementar",
+    "decrement": "Decrementar",
+    "reset": "Reiniciar",
+    "loadUser": "Cargar Usuario",
+    "updateUser": "Actualizar Usuario",
+    "name": "Nombre",
+    "email": "Correo",
+    "update": "Actualizar",
+    "retry": "Reintentar",
+    "error": "Error: {error}",
+    "@error": {
+        "placeholders": {
+            "error": {
+                "type": "Object"
+            }
+        }
+    }
+} 

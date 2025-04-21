@@ -1,0 +1,32 @@
+{
+    "appTitle": "State Management Examples",
+    "inheritedWidget": "Inherited Widget",
+    "network": "Network",
+    "provider": "Provider",
+    "bloc": "BLoC",
+    "getx": "GetX",
+    "riverpod": "Riverpod",
+    "inheritedWidgetDesc": "Basic state management using InheritedWidget",
+    "networkDesc": "Network calls and state management",
+    "providerDesc": "State management using Provider package",
+    "blocDesc": "State management using BLoC pattern",
+    "getxDesc": "State management using GetX",
+    "riverpodDesc": "State management using Riverpod",
+    "counterTitle": "Counter Example",
+    "counterValue": "You have pushed the button this many times:",
+    "increment": "Increment",
+    "decrement": "Decrement",
+    "reset": "Reset",
+    "loadUser": "Load User",
+    "updateUser": "Update User",
+    "name": "Name",
+    "email": "Email",
+    "update": "Update",
+    "retry": "Retry",
+    "error": "Error: {error}",
+    "@error": {
+        "placeholders": {
+            "error": {}
+        }
+    }
+} 
